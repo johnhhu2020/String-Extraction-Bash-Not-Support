@@ -4,13 +4,13 @@
 
 
 ## Example usage: <br />
-$ echo '' >  /home/+++/RMd_Processed_image_names.txt <br />
-$ head /+++/+++_names.txt <br />
+$ echo '' >  /home/+++/+++_Processed_names.txt <br />
+$ head /+++/+++_Processed_names.txt <br />
 
-$ python3 Str_Ext.py "+++/+++_names.txt" "+++/+++_Processed_names.txt" "Pictures/" ")" <br />
+$ python3 Str_Ext.py "+++/+++_images_names.txt" "+++/+++_Processed_names.txt" "Pictures/" ")" <br />
 $ head /+++/+++_Processed_names.txt <br />
 yankees +++.png <br />
 oakland +++.png <br />
-$ head /home/+++/RMd_image_names.txt <br />
+$ head /home/+++/+++_image_names.txt <br />
 ![image here](+++/+++/+++/Pictures/yankees +++.png) <br />
 ![image here](+++/+++/+++/Pictures/oakland +++.png) <br />
